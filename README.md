@@ -1,6 +1,7 @@
 # CS-3560-Updated-MiniTwitter
 
 Updated MiniTwitter from: https://github.com/kangaroo483/CS-3560-MiniTwitter
+
 Had difficulty making commit changes to the original, the changes will be commented in this exact format: 
 
 /* ************* ~ CHANGE MADE HERE ~ ************* */
