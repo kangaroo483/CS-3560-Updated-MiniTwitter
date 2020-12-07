@@ -2,10 +2,10 @@
 
 Updated MiniTwitter from: https://github.com/kangaroo483/CS-3560-MiniTwitter
 Having difficulty making commit changes to the original, the changes will be commented in this exact format: 
-/* ************* ~ CHANGE MADE HERE ~ *************
+"/* ************* ~ CHANGE MADE HERE ~ *************
 * What I changed deleted or added
-* 
-*/
+*
+*/"
 
 Changes Made Overall: 
 1. Unique UserID and GroupID so no duplicates, no spaces, validate button 
