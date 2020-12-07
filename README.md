@@ -14,21 +14,14 @@ Changes Made Overall:
 
 Classes with Changes: 
 
-Admin 
-
-AdminPanelGUI
-
-User 
-
-UserGroup 
-
-UserProfileGUI
-
-SysEntry
+1) Admin 
+2) AdminPanelGUI
+3) User 
+4) UserGroup 
+5) UserProfileGUI
+6) SysEntry
 
 
 Classes Added: 
-
-LastUserUpdatedVisitor
-
-ValidIDVisitor
+1) LastUserUpdatedVisitor
+2) ValidIDVisitor
