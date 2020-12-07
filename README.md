@@ -14,12 +14,19 @@ Changes Made Overall:
 
 Classes with Changes: 
 Admin 
+
 AdminPanelGUI
+
 User 
+
 UserGroup 
+
 UserProfileGUI
+
 SysEntry
 
 Classes Added: 
+
 LastUserUpdatedVisitor
+
 ValidIDVisitor
